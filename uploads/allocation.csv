@@ -1,0 +1,6 @@
+Group ID,Hostel Name,Room Number,Members Allocated,Reason
+101,Hostel A,101,3,
+102,Hostel A,102,4,
+103,Hostel A,103,2,
+104,Hostel B,201,5,
+105,Not allocated,Not allocated,8,No rooms matching gender
